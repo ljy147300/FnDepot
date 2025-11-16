@@ -5,6 +5,7 @@
     "labels": "工具,效率",
     "version": "1.0.0",
     "icon": "https://raw.githubusercontent.com/EWEDLCM/FnDepot/main/fntermx/ICON.PNG", 
+    "download_url": "https://raw.githubusercontent.com/EWEDLCM/FnDepot/main/fntermx/fntermx.fpk", 
     "maintainer": "EWEDL",
     "maintainer_url": "https://github.com/EWEDLCM/",
     "bug_report_url": "https://github.com/EWEDLCM/FnDepot/fntermx/issues",
